@@ -23,7 +23,7 @@ body{
 }
 
 nav{
-    max-width: 1200px;
+    max-width: 900px;
     margin: auto;
     padding: 2rem 1rem;
     display: flex;
@@ -65,7 +65,7 @@ nav{
 }
 
 .container{
-    max-width: 1200px;
+    max-width: 900px;
     margin: auto;
     padding: 2rem 2rem;
 }
