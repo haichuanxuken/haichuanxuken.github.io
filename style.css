@@ -22,6 +22,12 @@ body{
     background-color: white;
 }
 
+/* body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+} */
+
+
 nav{
     max-width: 900px;
     margin: auto;
