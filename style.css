@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+@font-face {
+    font-family: 'MapleMono';
+    src: url('fonts/MapleMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
 
+@font-face {
+    font-family: 'MapleMono';
+    src: url('fonts/MapleMono-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
 *{
   margin: 0;
   padding: 0;
@@ -16,6 +29,11 @@ img{
 a{
     text-decoration: none;
 }
+
+/* body{
+    font-family: 'MapleMono', monospace;
+    background-color: white;
+} */
 
 body{
     font-family: 'Poppins', sans-serif;
